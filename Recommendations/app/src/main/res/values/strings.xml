@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recommended\nPlaces</string>
+    <string name="user">User ID</string>
+    <string name="lat">Location Latitude</string>
+    <string name="Long">Location Longitude</string>
+    <string name="radius">Search Radius</string>
+    <string name="rec_num">Recommendations</string>
+    <string name="Show">Show Recommendations</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="New">New</string>
+</resources>
