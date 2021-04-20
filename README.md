@@ -15,6 +15,6 @@ Settings            |  Current Location
 :-------------------------:|:-------------------------:
 <img src="./settings.jpg"  width="300" height="533"> | <img src="/point1.jpg"  width="300" height="533"/>
 
-Top recommendation         | 2nd Recommendation
+Top Recommendation         | 2nd Recommendation
 :-------------------------:|:-------------------------:
 <img src="/point3.jpg"  width="300" height="533"/>  |  <img src="/point2.jpg"  width="300" height="533"/> 
