@@ -12,7 +12,7 @@ The app is just a demo and you can set the user id, user location (lat/long), se
 
 ## Some screenshots
 
-Settings:
+Settings:\
 <img src="./settings.jpg"  width="200" height="356">
 
 Recommendations on map:
