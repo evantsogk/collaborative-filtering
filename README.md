@@ -17,7 +17,7 @@ Settings:\
 
 Recommendations on map:
 <p float="left">
-  <img src="/point1.jpg"  width="200" height="356"/>
-  <img src="/point2.jpg"  width="200" height="356"/> 
-  <img src="/point3.jpg"  width="200" height="356"/>
+  <img src="/point1.jpg"  width="300" height="533"/>
+  <img src="/point2.jpg"  width="300" height="533"/> 
+  <img src="/point3.jpg"  width="300" height="533"/>
 </p>
