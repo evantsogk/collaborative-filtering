@@ -10,14 +10,11 @@ First run Master.java in a machine and then run Worker.java on every other machi
 The 'Recommendations' folder is the Android Studio project of the mobile app that communicates with the Master to get the recommendations. 
 The app is just a demo and you can set the user id, user location (lat/long), search radius (distance in km from current location) and how many recommendations to get.
 
-## Some screenshots
+## App screenshots
+Settings            |  Current Location
+:-------------------------:|:-------------------------:
+<img src="./settings.jpg"  width="300" height="533"> | <img src="/point1.jpg"  width="300" height="533"/>
 
-Settings:\
-<img src="./settings.jpg"  width="300" height="533">
-
-Recommendations on map:
-<p float="left">
-  <img src="/point1.jpg"  width="300" height="533"/>
-  <img src="/point2.jpg"  width="300" height="533"/> 
-  <img src="/point3.jpg"  width="300" height="533"/>
-</p>
+Top recommendation         | 2nd Recommendation
+:-------------------------:|:-------------------------:
+<img src="/point3.jpg"  width="300" height="533"/>  |  <img src="/point2.jpg"  width="300" height="533"/> 
